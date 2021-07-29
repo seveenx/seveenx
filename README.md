@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Last Horror](Soon...)
 
-- 📫 How to reach me **seveenx#5151**
+- 📫 How to reach me **Discord : seveenx#5151**
 
 
 <h3 align="left">Languages and Tools:</h3>

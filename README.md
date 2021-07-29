@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm seveenx</h1>
-<h3 align="center">A beginning developer who loves to learn from Germany/Russia / And I will share a couple of servers here from RageMP FiveM AltV.</h3>
+<h3 align="center">A beginning developer who loves to learn from Germany/Russia / And I will share a couple of servers here from RageMP FiveM AltV. / And if you are interested, I can help you translate Russian into German or English🤝</h3>
 
 - 🔭 I’m currently working on [Last Horror](Soon.de)
 
-- 📫 How to reach me **seveenx#5151 or my Discord : https://discord.gg/Y8PwkJ2K **
+- 💬 Ask me about **RAGE:MP**
+
+- 📫 How to reach me **seveenx#5151 / German/Russian/English**
 
 - ⚡ Fun fact **🔭Last Horror is a game that will be made by me and my friend, it will be a horror game that should bring a good gaming experience.🤝**
 

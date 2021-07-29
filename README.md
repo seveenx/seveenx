@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Last Horror](Soon.de)
 
-- 📫 How to reach me **seveenx#5151**
+- 📫 How to reach me **seveenx#5151 or my Discord : https://discord.gg/Y8PwkJ2K **
 
 - ⚡ Fun fact **🔭Last Horror is a game that will be made by me and my friend, it will be a horror game that should bring a good gaming experience.🤝**
 
